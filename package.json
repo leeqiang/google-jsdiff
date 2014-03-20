@@ -1,6 +1,6 @@
 {
   "name": "giff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript text diff implementation.",
   "keywords": [
     "diff",
@@ -10,13 +10,13 @@
     "type": "git",
     "url": "https://github.com/leeqiang/google-jsdiff"
   },
-  "main": "./diff",
+  "main": "./giff",
   "dependencies": {},
   "devDependencies": {
     "colors": "~0.6.2"
   },
   "optionalDependencies": {},
   "files": [
-    "diff.js"
+    "giff.js"
   ]
 }
